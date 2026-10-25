@@ -3,6 +3,9 @@
 ## Project Description
 AI Text Summarization is a web application that converts long paragraphs into short and meaningful summaries using Artificial Intelligence.
 
+## Demo Link
+https://text-summarization-ewyp2dhci7hycgeh7vjffh.streamlit.app/
+
 ## Features
 - Summarizes long text
 - Short, Medium, and Long summary options
